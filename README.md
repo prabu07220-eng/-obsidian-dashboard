@@ -10,9 +10,9 @@ npm start
 ```
 
 ## Login
-- Email: admin@obsidian.io
+- Email: prabu07220@gmail.com
 - Password: admin123
-- Or click "Continue with demo access"
+
 
 ## Pages
 Dashboard · Analytics · Products · Orders · Customers · Settings · 404
